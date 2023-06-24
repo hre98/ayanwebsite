@@ -1,0 +1,148 @@
+
+
+/* ================        navigation above ides   =================================================== */
+
+#ic
+{
+    color:  rgb(250, 188, 74);
+}
+#kbtn{
+    background-color: rgb(250, 188, 74);
+     color: white; 
+     padding: 5px 20px;
+     margin-left: 6rem;
+}
+/* =============================================== */
+
+
+
+
+
+
+#imgb{
+    height:7rem;
+}
+#colgapb{
+    margin-left: -4rem;
+}
+#p1{
+    background-color: rgb(155, 169, 184);
+    padding: 5px;
+    border-radius: 50%;
+color: white;
+
+}
+#p1:hover{
+background-color: #f39c12;
+cursor: pointer;
+}
+#ps{
+    margin-left: 2rem ;
+}
+#pp{
+    background-color: #044177;
+    padding: 24px;
+    color:white;
+}
+
+/* ===============================  services portion id  of cards  =================== */
+
+#a1{
+    margin-left: -22rem;
+}
+#a2{
+    margin-left:20rem ;
+}
+
+
+
+#a3{
+    margin-left: 6rem;
+    margin-top: -3rem;
+}
+
+#a4{
+    color: #f39c12;
+    font-size: 36px;
+}
+.mySlides {display:none;}
+#h4{
+    margin-left: 4rem;
+}
+#bnb{
+    
+    padding: 8px  30px ;
+    background-color: rgb(77, 77, 226);
+}
+#hi0{
+    margin-top: -19rem;
+    color: blue;
+}
+#ai1{
+    color: blue;
+    
+}
+a{
+    text-decoration: none;
+    color:rgb(223, 218, 218);
+}
+a:hover{
+    color: none;
+}
+
+/* ============================================================= */
+#anav{
+    margin-top: 11px;
+}
+#anav:hover{
+    text-decoration: underline       yellow ;
+    color: aliceblue;
+     
+
+}
+
+#hp{
+    margin-top: -34px;
+    margin-left: 3rem;
+}
+#iv{
+    font-size: 40px;
+    color:#1C66A7;
+
+}
+ #sec1{
+     background-image: url(https://bootstrapmade.com/demo/templates/Anyar/assets/img/about-bg.png);
+    background-repeat: no-repeat;
+    
+
+}
+/* ========================================================== */
+#te3{
+    margin-left: 10rem;
+    margin-top: -7rem;
+
+}
+/*    call to action ids   */
+
+#ctas{
+    background-image: url("https://bootstrapmade.com/demo/templates/Anyar/assets/img/cta-bg.jpg");
+    padding-top: 12%;
+    padding-bottom: 6%;
+    background-attachment: fixed;
+    
+}
+
+#fe3{
+    border: solid 1px orange ;
+     color: white;   
+    background: none; padding: 3px 10px;
+}
+
+
+
+
+
+
+/* call to action portion ids end */
+
+
